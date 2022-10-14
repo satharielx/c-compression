@@ -1,2 +1,2 @@
-# c-compression
-A simple compression algorithm made in C 
+# Compression algorithm made in C
+A simple compression algorithm made in C using numbers and keyword replacement. 
